@@ -1,9 +1,3 @@
 # ignore vim/nvim backup and swap files
 *.un~
 *.swp
-
-# ignore java bytecode
-*.class
-
-# ignore vscode configuration
-# .vscode/
